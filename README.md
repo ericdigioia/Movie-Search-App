@@ -25,7 +25,7 @@ https://github.com/ericdigioia/MovieSearchApp/assets/93066415/351fc18c-1ec3-4291
 ## App Design
 
 ・Entirely **programmatic UI** design using **UIKit Auto Layout constraints**<br/>
-・JSON data fetched using API request decoded into Swift structs using **Codable protocol**<br/>
+・JSON data fetched using asynchronous API request decoded into Swift structs using **Codable protocol**<br/>
 ・Favorites list persistent storage acheived using **Core Data**<br/>
 ・UI dynamically adapts to **light/dark** modes<br/>
 ・Compatible with **iOS 13.0+**<br/>
