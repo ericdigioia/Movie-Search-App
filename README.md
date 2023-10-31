@@ -8,6 +8,14 @@
 
 A simple movie search app built programmatically using Auto Layout constraints in Swift.
 
+## App Demo
+
+
+
+https://github.com/ericdigioia/MovieSearchApp/assets/93066415/351fc18c-1ec3-4291-8d1f-77180bc93ebf
+
+
+
 ## App Features
 
 ・Search for movies by title using OMDb API<br/>
