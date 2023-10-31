@@ -10,14 +10,6 @@
 
 A simple movie search app built programmatically using Auto Layout constraints in Swift.
 
-## App Demo
-
-
-
-https://github.com/ericdigioia/MovieSearchApp/assets/93066415/351fc18c-1ec3-4291-8d1f-77180bc93ebf
-
-
-
 ## App Features
 
 ・Search for movies by title using OMDb API<br/>
@@ -31,6 +23,14 @@ https://github.com/ericdigioia/MovieSearchApp/assets/93066415/351fc18c-1ec3-4291
 ・Favorites list persistent storage acheived using **Core Data**<br/>
 ・UI dynamically adapts to **light/dark** modes<br/>
 ・Compatible with **iOS 13.0+**<br/>
+
+## App Demo
+
+
+
+https://github.com/ericdigioia/Movie-Search-App/assets/93066415/2741a8cc-76d9-4012-8300-74ff59d92efd
+
+
 
 [swift-version]: https://img.shields.io/badge/Swift-5.6-green.svg
 [xcode-version]: https://img.shields.io/badge/Xcode-15.0.1-green.svg
