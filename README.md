@@ -19,8 +19,9 @@ A simple movie search app built programmatically using Auto Layout constraints i
 ## App Design
 
 ・Entirely **programmatic UI** design using **UIKit Auto Layout constraints**<br/>
-・JSON data fetched using asynchronous API request decoded into Swift structs using **Codable protocol**<br/>
-・Favorites list persistent storage acheived using **Core Data**<br/>
+・JSON data fetched using **asynchronous API request** decoded into Swift structs using **Codable protocol**<br/>
+  ・The OMDb API returns 10 movies per request, so the app dynamically sends more requests to load more results when the user scrolls to the bottom of the results list<br/>
+・Favorites list persistent storage achieved using **Core Data**<br/>
 ・UI dynamically adapts to **light/dark** modes<br/>
 ・Compatible with **iOS 13.0+**<br/>
 
