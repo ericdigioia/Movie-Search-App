@@ -5,6 +5,8 @@
 <br />
 ![Designed with UIKit][uikit]
 ![UI designed programmatically with Auto Layout][AL]
+<br />
+![Persistence using Core Data][CD]
 
 A simple movie search app built programmatically using Auto Layout constraints in Swift.
 
@@ -35,3 +37,4 @@ https://github.com/ericdigioia/MovieSearchApp/assets/93066415/351fc18c-1ec3-4291
 [ios-version]: https://img.shields.io/badge/iOS-13.0+-green.svg
 [uikit]: https://img.shields.io/badge/UIKit-%20-informational
 [AL]: https://img.shields.io/badge/Auto%20Layout-%20-informational
+[CD]: https://img.shields.io/badge/Core%20Data-%20-red.svg
